@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(212, 197, 197);
+}
+
+.card-body{
+    
+    background-color: rgb(37, 35, 35);
+    color: white;
+}
+
+.cont-header{
+    background-color: rgb(247, 247, 247);
+}
+
+
+.head-text{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.carousel-bg{
+    background-color:"crimson";
+}
+.left-nav-color{
+    color: white;
+}
+.header-img{
+    opacity :0.5;
+}
